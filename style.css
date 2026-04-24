@@ -66,13 +66,13 @@ select { /* Стили для выпадающего списка */
 
 .frameworks-list { /* Стили для маркированного списка во второй секции */
     list-style-image: url(./solar_map-arrow-up-bold.svg);
-    padding-left: 0px 20px; /* 0px сверху и снизу и 20px cлева и справа */
+    padding: 0px 20px; /* 0px сверху и снизу и 20px cлева и справа */
     font-weight: 400;
     font-size: 16px;
 }
 
 .books-list { /* Стили для нумерованного списка во второй секции */
-    padding-left: 0px 20px; /* 0px сверху и снизу и 20px cлева и справа */
+    padding: 0px 20px; /* 0px сверху и снизу и 20px cлева и справа */
     font-weight: 400;
     font-size: 16px;
 }
